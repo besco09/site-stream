@@ -1,10 +1,10 @@
 body{font-family:arial,sans-serif;
-     background-color:#121212;
-     color:aliceblue;
+     background-color:#2220b6;
+     color:rgb(42, 144, 233);
      margin:0;
      padding:0%;}
     
-header{background-color:#1f1f1f;
+header{background-color:#098f1b;
        padding:20px;
        text-align:center;}
 
@@ -13,7 +13,7 @@ h1{margin:0;
 
 .categoria {margin:30px;}
 
-.categoria h2{border-bottom:2px solid #444;
+.categoria h2{border-bottom:2px solid #8a1d1d;
               padding-bottom:10px;
               color:#ffcc00;}
 
@@ -22,11 +22,13 @@ h1{margin:0;
         gap: 20px;
         margin-top:20px;}
 
-.filme{background-color:#1e1e1e;
-       padding: 10px;
+.filme{background-color:#ac0909;
+       padding: 10px;device-width
        border-radius:8px;
        width:180px;
        text-align:center;}
 
-.flime img{width:100% ;
+.filme img{width:100% ;
            border-radius:5px;}
+
+.imagem {width: 10%;}
